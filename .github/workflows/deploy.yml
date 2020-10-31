@@ -1,0 +1,23 @@
+name: Deploy to GH Pages
+on:
+  push:
+    branches: [ master ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install hugo
+      run: |
+       sudo snap install hugo --channel=extended
+       hugo version
+    - name: Install hugo theme
+      run: |
+        git clone https://github.com/themefisher/liva-hugo.git themes/liva-hugo
+    - name: Build
+      run: HUGO_ENV=production hugo --cleanDestinationDir --verbose --minify
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
