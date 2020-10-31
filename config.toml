@@ -118,11 +118,11 @@ icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "Etsy"
+title = "etsy"
 icon = "ti-gift" # themify icon : https://themify.me/themify-icons
 link = "https://www.etsy.com/in-en/shop/MyRoseCrochet"
 
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "ravelry"
+icon = "ti-gift" # themify icon : https://themify.me/themify-icons
+link = "https://www.ravelry.com/patterns/sources/my-rose-crochet/patterns"
