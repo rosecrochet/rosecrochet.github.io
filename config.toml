@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://rosecrochet.github.io/"
 languageCode = "en-us"
 title = "Rose Crochet"
 theme = "liva-hugo"
