@@ -1,14 +1,3 @@
 prose:
   rooturl: 'content'
   siteurl: 'https://rosecrochet.github.io/'
-metadata:
-  content:
-    - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-    - name: "date"
-        field:
-          element: "hidden"
-          value: CURRENT_DATETIME
