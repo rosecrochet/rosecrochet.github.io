@@ -2,8 +2,11 @@
 title: "Easy Flower Headband"
 date: 2020-10-29T10:07:47+05:30
 image: "easy-flower-headband/cover.jpg"
-categories: []
-tags: ["Crochet Pattern", "Flower Pattern", "Head Band Pattern"]
+categories:
+  - Free
+tags: 
+  - Flower Pattern
+  - Head Band Pattern
 type: "post"
 ---
 

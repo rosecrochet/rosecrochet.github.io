@@ -1,14 +1,13 @@
 ---
 title: Doily in Center Cushion Cover
-date: {}
+date: 2020-10-31T10:07:47+05:30
 image: doily-cushion-cover/cover.JPG
-categories: []
+categories:
+  - Free
 tags:
-  - Crochet Pattern
-  - Flower Pattern
-  - Head Band Pattern
+  - Cushion
+  - Doily
 type: post
-published: true
 ---
 
 Crocheting is such a versatile craft that with little imagination and knowledge about stitches,any one can create beautiful things . I made this cushion cover with a doily in center. My own design. Doily pattern is from net. I changed the pattern to make it suitable for this  design. The square part of the cushion cover is done with shell pattern , Overall it gives a artistic look. Here I am giving the written pattern for doily and  the square part .
